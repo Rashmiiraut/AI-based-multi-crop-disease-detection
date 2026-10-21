@@ -1,0 +1,29 @@
+
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+.env.*
+
+# Uploaded images
+uploads/*
+
+# Dataset
+dataset/*
+!dataset/.gitkeep
+
+# Trained model and metadata
+model/*.keras
+model/*.h5
+model/*.json
+
+# Results
+results/*
+!results/.gitkeep
