@@ -2,6 +2,9 @@
 
 An AI-powered web application that detects plant diseases from uploaded images using **MobileNetV2, TensorFlow/Keras, and Flask**. The application predicts the plant category and displays the prediction confidence score.
 
+<img width="803" height="425" alt="image" src="https://github.com/user-attachments/assets/b22d3a05-61e6-4bde-b212-766c7227e9ea" />
+
+
 ##  Project Overview
 
 Plant diseases can affect crop health and agricultural productivity. This project uses deep learning to classify cotton and corn/maize images into different disease and healthy categories.
