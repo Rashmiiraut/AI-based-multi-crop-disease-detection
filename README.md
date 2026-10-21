@@ -2,7 +2,14 @@
 
 An AI-powered web application that detects plant diseases from uploaded images using **MobileNetV2, TensorFlow/Keras, and Flask**. The application predicts the plant category and displays the prediction confidence score.
 
-<img width="803" height="425" alt="image" src="https://github.com/user-attachments/assets/b22d3a05-61e6-4bde-b212-766c7227e9ea" />
+<img width="956" height="506" alt="crop" src="https://github.com/user-attachments/assets/1226d0e0-2334-465c-bf21-a37803e2745d" />
+
+
+<img width="886" height="479" alt="crop2" src="https://github.com/user-attachments/assets/62d1983f-084d-4fe1-a1fb-aa8cb79e25e9" />
+
+
+<img width="908" height="458" alt="crop3" src="https://github.com/user-attachments/assets/9b3fffc0-3454-4fd4-af95-a5d7a7fbd85a" />
+
 
 
 ##  Project Overview
@@ -48,6 +55,9 @@ The final model classifies images into six categories.
 6. Healthy
 
 The dataset contains images organized into class-specific folders. Dataset images are not included in this repository.
+
+<img width="933" height="506" alt="crop4" src="https://github.com/user-attachments/assets/bf264a30-18c8-47a9-9319-06dd6ad32ec4" />
+
 
 ### Dataset Structure
 
